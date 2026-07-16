@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beatrizdemelo.com.br/sitemap.xml
